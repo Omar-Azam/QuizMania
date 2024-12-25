@@ -161,7 +161,7 @@ function fAns() {
                                 </div>
                                 <div class="result-btn">
                                 <div class="r-btn">
-                                <button class=""><a href="../html/index.html">Home</a></button>
+                                <button class=""><a href="../index.html">Home</a></button>
                                 <!-- <button class="reset" title="reset"><i class="bx bx-reset"></i></button> -->
                                 </div>
                                 <button class="reset">Again</button>
